@@ -1,0 +1,85 @@
+{
+  "name": "Monochrome Zero Two",
+  "description": "Чёрно-белая графитовая тема с серебристыми акцентами",
+  "authors": [
+    {
+      "name": "002"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#FAFAFA"
+    ],
+    "HEADER_SECONDARY": [
+      "#A1A1AA"
+    ],
+    "TEXT_NORMAL": [
+      "#F4F4F5"
+    ],
+    "TEXT_MUTED": [
+      "#A1A1AA"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#D4D4D8"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#52525B"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#0E0E10"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#18181B"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#141417"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#09090B"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#27272A"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#18181B"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#0E0E10"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#18181B"
+    ],
+    "CHAT_BACKGROUND": [
+      "#0E0E10"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#1F1F23"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#FAFAFA",
+    "PRIMARY_200": "#E4E4E7",
+    "PRIMARY_300": "#A1A1AA",
+    "PRIMARY_400": "#71717A",
+    "PRIMARY_500": "#27272A",
+    "PRIMARY_600": "#18181B",
+    "PRIMARY_630": "#141417",
+    "PRIMARY_660": "#0E0E10",
+    "PRIMARY_700": "#09090B",
+    "BRAND_500": "#D4D4D8",
+    "BRAND_560": "#A1A1AA"
+  },
+  "background": {
+    "url": "https://i.imgur.com/xOFcvWt.jpeg",
+    "blur": 0,
+    "alpha": 0.72,
+    "color": "#0E0E10"
+  }
+}
